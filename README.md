@@ -16,70 +16,40 @@ I'm always excited to learn new technologies, especially in the fields of **big 
 ---
 
 <!-- TOOLS -->
-## 🛠️ Tools 
+
+
+## 🛠️ Tools
+
 <p align="center">
-  <table align="center">
-    <tr >
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/><br>Python</td>
-      <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="100"/><br>Pandas</td>
-      <td align="center"><img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="80"/><br>Seaborn</td>
-      <td align="center"><img src="https://spark.apache.org/images/spark-logo-trademark.png" width="60"/><br>Spark</td>
-      <td align="center"><img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="40"/><br>Colab</td>
-    </tr>
-    <tr>
-      <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40"/><br>Power BI</td>
-      <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" width="40"/><br>SQL</td>
-      <td align="center"><img src="https://mailmeteor.com/logos/assets/PNG/Google_Sheets_Logo_256px.png" width="40"/><br>Sheets</td>
-      <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg" width="120"/><br>GCP</td>
-            <td align="center" colspan="5">
-        <img src="https://1000logos.net/wp-content/uploads/2024/10/BigQuery-Logo.png" width="80"/><br>BigQuery
-      </td>
-    </tr>
-  </table>
-</p>
-
-## 🛠️ Tools 
-
-<div align="center">
 
 <table>
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/><br>Python
-    </td>
-    <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="100"/><br>Pandas
-    </td>
-    <td align="center">
-      <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="80"/><br>Seaborn
-    </td>
-    <td align="center">
-      <img src="https://spark.apache.org/images/spark-logo-trademark.png" width="60"/><br>Spark
-    </td>
-    <td align="center">
-      <img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="40"/><br>Colab
-    </td>
+  <tr align="center">
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" title="Python"/></td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="80" title="Pandas"/></td>
+    <td><img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="90" title="Seaborn"/></td>
+    <td><img src="https://spark.apache.org/images/spark-logo-trademark.png" width="70" title="Spark"/></td>
+    <td><img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="60" title="Colab"/></td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="60" title="Power BI"/></td>
+    <td><img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" width="60" title="SQL"/></td>
+    <td><img src="https://mailmeteor.com/logos/assets/PNG/Google_Sheets_Logo_256px.png" width="50" title="Google Sheets"/></td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg" width="100 title="GCP"/></td>
+    <td><img src="https://1000logos.net/wp-content/uploads/2024/10/BigQuery-Logo.png" width="80" title="BigQuery"/></td>
   </tr>
-  <tr>
-    <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40"/><br>Power BI
-    </td>
-    <td align="center">
-      <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" width="40"/><br>SQL
-    </td>
-    <td align="center">
-      <img src="https://mailmeteor.com/logos/assets/PNG/Google_Sheets_Logo_256px.png" width="40"/><br>Sheets
-    </td>
-    <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg" width="120"/><br>GCP
-    </td>
-    <td align="center">
-      <img src="https://1000logos.net/wp-content/uploads/2024/10/BigQuery-Logo.png" width="80"/><br>BigQuery
-    </td>
+  <tr align="center">
+    <td>Python</td>
+    <td>Pandas</td>
+    <td>Seaborn</td>
+    <td>Spark</td>
+    <td>Colab</td>
+    <td>Power BI</td>
+    <td>SQL</td>
+    <td>Sheets</td>
+    <td>GCP</td>
+    <td>BigQuery</td>
   </tr>
 </table>
 
-</div>
+</p>
 
 
 ---
