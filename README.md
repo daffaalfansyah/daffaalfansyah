@@ -17,18 +17,68 @@ I'm always excited to learn new technologies, especially in the fields of **big 
 
 <!-- TOOLS -->
 ## 🛠️ Tools 
-<div style="display: flex; justify-content: center; gap: 15px; align-items: center; flex-wrap: wrap; text-align: center;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="40">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" height="40">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit Learn" height="40">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="Apache Spark" height="40">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="Google Colab" height="40">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" height="40">
-  <img src="https://lookerstudio.google.com/favicon.ico" alt="Looker Studio" height="40">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" height="40">
-  <img src="https://mailmeteor.com/logos/assets/PNG/Google_Sheets_Logo_256px.png" alt="Spreadsheet" height="40">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg" alt="Google Cloud" height="20"/>
-  <img src="https://1000logos.net/wp-content/uploads/2024/10/BigQuery-Logo.png" alt="BigQuery" height="50"/>
+<p align="center">
+  <table align="center">
+    <tr >
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/><br>Python</td>
+      <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="100"/><br>Pandas</td>
+      <td align="center"><img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="80"/><br>Seaborn</td>
+      <td align="center"><img src="https://spark.apache.org/images/spark-logo-trademark.png" width="60"/><br>Spark</td>
+      <td align="center"><img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="40"/><br>Colab</td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40"/><br>Power BI</td>
+      <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" width="40"/><br>SQL</td>
+      <td align="center"><img src="https://mailmeteor.com/logos/assets/PNG/Google_Sheets_Logo_256px.png" width="40"/><br>Sheets</td>
+      <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg" width="120"/><br>GCP</td>
+            <td align="center" colspan="5">
+        <img src="https://1000logos.net/wp-content/uploads/2024/10/BigQuery-Logo.png" width="80"/><br>BigQuery
+      </td>
+    </tr>
+  </table>
+</p>
+
+## 🛠️ Tools 
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/><br>Python
+    </td>
+    <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="100"/><br>Pandas
+    </td>
+    <td align="center">
+      <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="80"/><br>Seaborn
+    </td>
+    <td align="center">
+      <img src="https://spark.apache.org/images/spark-logo-trademark.png" width="60"/><br>Spark
+    </td>
+    <td align="center">
+      <img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="40"/><br>Colab
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40"/><br>Power BI
+    </td>
+    <td align="center">
+      <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" width="40"/><br>SQL
+    </td>
+    <td align="center">
+      <img src="https://mailmeteor.com/logos/assets/PNG/Google_Sheets_Logo_256px.png" width="40"/><br>Sheets
+    </td>
+    <td align="center">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg" width="120"/><br>GCP
+    </td>
+    <td align="center">
+      <img src="https://1000logos.net/wp-content/uploads/2024/10/BigQuery-Logo.png" width="80"/><br>BigQuery
+    </td>
+  </tr>
+</table>
+
 </div>
 
 
