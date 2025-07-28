@@ -32,7 +32,7 @@ I'm always excited to learn new technologies, especially in the fields of **big 
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="60" title="Power BI"/></td>
     <td><img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" width="60" title="SQL"/></td>
     <td><img src="https://mailmeteor.com/logos/assets/PNG/Google_Sheets_Logo_256px.png" width="50" title="Google Sheets"/></td>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg" width="100 title="GCP"/></td>
+    <td><img src="https://images.seeklogo.com/logo-png/33/1/google-cloud-logo-png_seeklogo-336116.png" width="800 title="GCP"/></td>
     <td><img src="https://1000logos.net/wp-content/uploads/2024/10/BigQuery-Logo.png" width="80" title="BigQuery"/></td>
   </tr>
   <tr align="center">
