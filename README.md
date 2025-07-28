@@ -16,18 +16,20 @@ I'm always excited to learn new technologies, especially in the fields of **big 
 ---
 
 <!-- TOOLS -->
-## 🛠️ Tools & Technologies
-
-<p align="left">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Looker%20Studio-4A90E2?style=flat&logo=looker&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Microsoft%20Excel-217346?style=flat&logo=microsoftexcel&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Google%20Sheets-34A853?style=flat&logo=googlesheets&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Jupyter-F37726?style=flat&logo=jupyter&logoColor=white" />
-</p>
+## 🛠️ Tools 
+<div style="display: flex; justify-content: center; gap: 15px; align-items: center; flex-wrap: wrap; text-align: center;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="40">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" height="40">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit Learn" height="40">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="Apache Spark" height="40">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="Google Colab" height="40">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" height="40">
+  <img src="https://lookerstudio.google.com/favicon.ico" alt="Looker Studio" height="40">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" height="40">
+  <img src="https://mailmeteor.com/logos/assets/PNG/Google_Sheets_Logo_256px.png" alt="Spreadsheet" height="40">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg" alt="Google Cloud" height="20"/>
+  <img src="https://1000logos.net/wp-content/uploads/2024/10/BigQuery-Logo.png" alt="BigQuery" height="50"/>
+</div>
 
 
 ---
