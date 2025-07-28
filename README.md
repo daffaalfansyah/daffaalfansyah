@@ -34,11 +34,9 @@ I'm always excited to learn new technologies, especially in the fields of **big 
 
 <!-- OPSIONAL: GIF JENNIE -->
 <p align="center">
-  <img src="Jennie.gif" alt="Jennie Ruby Jane GIF" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDJzM3E5Y3ZxMms4a3I2OGppdnI4NHljYjB2bGRhaGp0YjMwcXVsNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3otPowKUTgbSzUf8pG/giphy.gif" />
 </p>
 
-<div align="center">
-  <blockquote>
-    <p><em>I'm a big fan of Jennie and BLACKPINK.</em></p>
-  </blockquote>
-</div>
+<p align="center">
+  <em>I'm a big fan of Jennie and BLACKPINK — they inspire both my playlists and my projects.</em>
+</p>
