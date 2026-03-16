@@ -60,5 +60,5 @@ I'm always excited to learn new technologies, especially in the fields of **big 
 </p>
 
 <p align="center">
-  <em>I'm a big fan of Jennie and BLACKPINK — they inspire both my playlists and my projects.</em>
+  <em>I'm a big fan of JENNIE — She inspire both my playlists and my projects.</em>
 </p>
