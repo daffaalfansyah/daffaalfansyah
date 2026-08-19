@@ -6,8 +6,7 @@
 <!-- DESKRIPSI DIRI -->
 ## 👋 About Me
 
-Hi! I'm **Muhammad Daffa Al Fansyah**, an Information Systems student and a data enthusiast from Indonesia with a strong interest in **data analytics** and **Python development**.  I enjoy working with data transforming raw numbers into valuable insights and building visualizations that communicate stories clearly.
-
+Hi! I'm **Muhammad Daffa Al Fansyah**, a **Bachelor of Computer Science (Sarjana Komputer)** and a data enthusiast from Indonesia with a strong interest in **data analytics** and **Python development**. I enjoy working with data, transforming raw numbers into valuable insights, and building visualizations that communicate stories clearly.
 
 I'm always excited to learn new technologies, especially in the fields of **big data**, **machine learning**, and **cloud computing**.
 
